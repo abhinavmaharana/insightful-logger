@@ -16,6 +16,7 @@ A versatile logger for Node.js applications with added insights.
     - [JavaScript Implementation](#javascript-implementation)
     - [TypeScript Implementation](#typescript-implementation)
   - [Contributing](#contributing)
+  - [GitHub Repository](#github-repository)
   - [License](#license)
 
 ## Installation
@@ -144,6 +145,10 @@ Feel free to contribute by opening issues or submitting pull requests.
 3) Commit your changes: git commit -am 'Add new feature'
 4) Push to the branch: git push origin feature/new-feature
 5) Submit a pull request
+
+## GitHub Repository
+
+[GitHub Repository](https://github.com/abhinavmaharana/insightful-logger)
 
 ## License
 
