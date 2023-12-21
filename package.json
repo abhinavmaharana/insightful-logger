@@ -1,0 +1,28 @@
+{
+  "name": "insightful-logger",
+  "version": "1.0.0",
+  "description": "A versatile logger for Node.js applications with added insights.",
+  "main": "./dist/insightful-logger.js",
+  "types": "./dist/insightful-logger.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "testjs": "node ./test/test.js",
+    "testts": "ts-node ./test/test.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinav Maharana, Srishti Nagarkoti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/uuid": "^9.0.7",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
